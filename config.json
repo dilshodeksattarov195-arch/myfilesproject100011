@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpync",
+        "uuid": 49753,
+        "checksum": "d9jp7o"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
